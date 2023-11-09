@@ -1,0 +1,6 @@
+- Name: BerryTrainHelper
+  Version: 0.1.0
+  DLL: bin/BerryTrainHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.4205.0
